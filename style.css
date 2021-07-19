@@ -24,6 +24,7 @@
   }
 
   .section {
+    
     text-align: center;
   }
 
@@ -330,8 +331,9 @@
   .content-slide img {
     max-width: 1200px;
     height: auto;
+    
   }
-
+ 
   .fp-controlArrow.fp-next {
     border-color: transparent transparent transparent #FF6363 !important;
     right: 45px !important;
