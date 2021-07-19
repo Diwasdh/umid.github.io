@@ -292,7 +292,7 @@
 
   /* project section */
 
-  #photos{
+  #photo{
       background: linear-gradient(270deg, #f9fffe, #c7d4d2, #c1d4d1, #dee6e5, #a7c8c3, #bacac8);
       background-size: 1200% 1200%;
   
@@ -332,6 +332,9 @@
     max-width: 1200px;
     height: auto;
     
+  }
+  .slide{
+    overflow: hidden;
   }
  
   .fp-controlArrow.fp-next {
